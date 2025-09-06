@@ -17,4 +17,4 @@ Users can explore blog posts, search content, and interact with comments.
 - JavaScript
 
 ## Live Link
-[View Blog Website](https://yourusername.github.io/blog-website/)
+[View Blog Website](https://Sonal-mithun.github.io/blog-website/)
