@@ -5,7 +5,7 @@
 }
 
 body{
-     font-family: Arial, sans-serif;
+     font-family: 'poppins', sans-serif;
      padding:0;
      background: #e7eaf6;
      color: #333;
@@ -171,7 +171,7 @@ body{
     padding: 1rem;
     margin-bottom: 2rem;
     border-radius: 8px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
  }
 
  .blog-post img{
@@ -283,17 +283,9 @@ li:hover{
 #blog-container{
    display: flex;
    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: space-between;
-}
-
-/*.box{
-    border:1px solid rgb(171, 162, 162);
-    height: 400px;
-    width: 30%;
-    background-color: white;
-    
-} */
+   gap: 20px;
+   justify-content: space-between;
+} 
 
 .content-section{
     display: flex;
