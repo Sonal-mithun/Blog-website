@@ -66,15 +66,7 @@ body{
     color: whitesmoke;
 }
 /* Share icons Styling */
-/*.share-buttons a {
-  display: inline-block;
-  margin: 2px;
-  font-size: 30px;
-  color: white;
-  padding: 10px;
-  border-radius: 5px;
-  text-decoration: none;
-}*/
+
 .share-icon{
     display:flex;
     justify-content: space-between;
@@ -84,10 +76,6 @@ body{
     font-size: 1.5rem;
 }
 
-/*.facebook { background: #3b5998; }
-.twitter { background: #1da1f2; }
-.linkedin { background: #0077b5; }
-*/
 /* Blog search Styling */
 .blog-search{
     display: flex;
